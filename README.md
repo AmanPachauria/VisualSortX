@@ -11,7 +11,7 @@ This project provides an intuitive visual representation of how these algorithms
 
 ## Try it Out
 
-![GitHub Logo]([https://example.com/path/to/your/image.png](https://drive.google.com/drive/u/0/folders/14-GK9n1xGrPnL7d0OUto9d7lsW1IAa9Y))
+![Alt Text](https://drive.google.com/file/d/1FSI9iG8-6N4aiDXWFUfeDtAWldt0NROd/view)
 
 Explore the live demo of the Visual Sort Application: [VisualSortX](https://visualsortx.netlify.app/)
 
