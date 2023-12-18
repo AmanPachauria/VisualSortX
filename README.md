@@ -9,8 +9,4 @@ A React application that visualizes sorting algorithms includin
 This project provides a visual representation of how these algorithms work, helping users to understand the sorting process.
 
 
-
-
-
-
 You can reach to my react-app : https://visualsortx.netlify.app/
