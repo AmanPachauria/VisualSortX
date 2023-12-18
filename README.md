@@ -9,7 +9,7 @@ A React application that visually demonstrates sorting algorithms, including:
 
 This project provides an intuitive visual representation of how these algorithms work, facilitating a better understanding of the sorting process.
 
-## Visualization Legend
+## Visualization Features
 
 - **Light Blue**: Initial state of the array.
 - **Yellow**: Division or partitioning (used in Merge Sort and Quick Sort).
