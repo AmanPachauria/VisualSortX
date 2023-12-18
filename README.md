@@ -1,12 +1,16 @@
 # Visual Sort Application
 
-A React application that visualizes sorting algorithms includin
--> Merge Sort
--> Quick Sort
--> Bubble Sort
--> Heap Sort
+A React application that visually demonstrates sorting algorithms, including:
 
-This project provides a visual representation of how these algorithms work, helping users to understand the sorting process.
+- **Merge Sort**
+- **Quick Sort**
+- **Bubble Sort**
+- **Heap Sort**
 
+This project provides an intuitive visual representation of how these algorithms work, facilitating a better understanding of the sorting process.
 
-You can reach to my react-app : https://visualsortx.netlify.app/
+## Try it Out
+
+Explore the live demo of the Visual Sort Application: [VisualSortX](https://visualsortx.netlify.app/)
+
+Feel free to contribute or provide feedback!
